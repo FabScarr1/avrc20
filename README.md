@@ -1,2 +1,2 @@
 # avrc20
-code for the avrc20 exam
+Slides , code and artifacts for the avrc20 couse
